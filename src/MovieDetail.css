@@ -1,0 +1,71 @@
+
+
+   .movie-detail-container {
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .movie-title {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333333;
+  }
+  
+  .movie-info-container {
+    margin-bottom: 20px;
+  }
+  
+  .movie-info-title,
+  .movie-info-release-date {
+    color: #3f51b5;
+  }
+  
+  .artist-card {
+    margin-bottom: 10px;
+    background-color: #f5f5f5;
+    border: 1px solid #3f51b5;
+  }
+  
+  .artist-role {
+    color: #ff5722;
+  }
+  
+  .artist-name {
+    color: #4caf50;
+  }
+  
+  .tags-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .tag-chip {
+    margin: 2px;
+  }
+  
+  .add-tag-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+
+  .add-tag-dropdown{
+    width:650px !important
+  }
+  
+  
+  .add-tag-input {
+    flex-grow: 1;
+  }
+  
+  .back-button {
+    width: 100%;
+  }
+  
